@@ -28,7 +28,7 @@ Locate the directory in your file explorer
 - Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem)
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome.
 
 Feel free to check the [issues page](https://github.com/abiodunraheem/casino-royal/issues).
 
